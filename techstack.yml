@@ -1,0 +1,127 @@
+repo_name: 2lambda123/Algorithms
+report_id: 3608e03c4fdcc4532c82856d330f0a29
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:12:45+00:00'
+requested_by: syoon2
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/Algorithms
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/Algorithms
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/2lambda123/Algorithms
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/Algorithms
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/Algorithms
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/Algorithms/blob/master/.github/workflows/gradle.yml
+  detection_source: ".github/workflows/gradle.yml"
+  last_updated_by: Sung Ho Yoon
+  last_updated_on: 2023-05-09 15:47:29.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/2lambda123/Algorithms/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: william-fiset
+  last_updated_on: 2019-05-30 01:45:53.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: 3.13.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/Algorithms/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Sung Ho Yoon
+  last_updated_on: 2023-08-08 07:37:11.000000000 Z
+- name: org.junit.jupiter:junit-jupiter
+  description: Module "junit-jupiter" of JUnit 5
+  version: 5.10.0
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/Algorithms/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Sung Ho Yoon
+  last_updated_on: 2023-08-08 07:37:11.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-engine
+  description: Module "junit-jupiter-engine" of JUnit 5
+  version: 5.10.0
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/2lambda123/Algorithms/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Sung Ho Yoon
+  last_updated_on: 2023-08-08 07:37:11.000000000 Z
